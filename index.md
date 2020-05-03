@@ -12,5 +12,5 @@ layout: default
 
 ![Demo Image](https://github.com/TianyunZ/Neural-Pose-Transfer/blob/gh-pages/images/demo.png)
 
-![Image1](/demo1.jpg)
+![Image1](https://github.com/TianyunZ/Neural-Pose-Transfer/blob/gh-pages/demo1.jpg)
 
