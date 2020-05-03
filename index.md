@@ -10,6 +10,6 @@ layout: default
 ## Outline
 
 
-![Demo Image](/images/demo.png)
+![Demo Image](https://github.com/TianyunZ/Neural-Pose-Transfer/blob/gh-pages/images/demo.png)
 
 
